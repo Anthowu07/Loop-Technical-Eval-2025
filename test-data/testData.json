@@ -1,0 +1,76 @@
+[
+    {
+        "username": "admin",
+        "password": "password123",
+        "navbar": "Web Application",
+        "column": "To Do",
+        "card": {
+            "header": "Implement user authentication",
+            "tags": [
+                "Feature",
+                "High Priority"
+            ]
+        }
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "navbar": "Web Application",
+        "column": "To Do",
+        "card": {
+            "header": "Fix navigation bug",
+            "tags": [
+                "Bug"
+            ]
+        }
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "navbar": "Web Application",
+        "column": "In Progress",
+        "card": {
+            "header": "Design system updates",
+            "tags": [
+                "Design"
+            ]
+        }
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "navbar": "Mobile Application",
+        "column": "To Do",
+        "card": {
+            "header": "Push notification system",
+            "tags": [
+                "Feature"
+            ]
+        }
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "navbar": "Mobile Application",
+        "column": "In Progress",
+        "card": {
+            "header": "Offline mode",
+            "tags": [
+                "Feature",
+                "High Priority"
+            ]
+        }
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "navbar": "Mobile Application",
+        "column": "Done",
+        "card": {
+            "header": "App icon design",
+            "tags": [
+                "Design"
+            ]
+        }
+    }
+]
