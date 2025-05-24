@@ -8,4 +8,5 @@ Playwright Data-Driven Test written in TypeScript to check
 1. clone this repository
 2. run this command:
 ```npx playwright test```
-3. view the index.html in /playwright-report to view the results
+3. view the ```index.html``` in ```/playwright-report``` to view the results
+4. ALTERNATIVELY, download the current report in ```/playwright-report``` and open in browser to view the latest results
