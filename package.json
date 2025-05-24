@@ -1,0 +1,15 @@
+{
+  "name": "loop-technical-eval-2025",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000o\u0000o\u0000p\u0000-\u0000T\u0000e\u0000c\u0000h\u0000n\u0000i\u0000c\u0000a\u0000l\u0000-\u0000E\u0000v\u0000a\u0000l\u0000-\u00002\u00000\u00002\u00005\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
